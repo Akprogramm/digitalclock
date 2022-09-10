@@ -1,0 +1,28 @@
+
+body{
+  background-color: black;
+}
+
+.clock{
+  margin: auto;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  /* text-align: center; */
+  align-items: center;
+  height: 25vh;
+  width: 45vw;
+  border: 5px solid white;
+  border-radius: 20px;
+  font-size: 125px;
+  color: white;
+  background-color: black;
+}
+/* 
+.box{
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 10em;
+  font-size: 150px;
+} */
+
